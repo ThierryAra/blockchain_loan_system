@@ -1,0 +1,35 @@
+{
+    "false": [
+      {
+        "id": 1,
+        "name": "Carla Oliveira",
+        "credit_score": 810,
+        "income": 7000,
+        "loan_history": []
+      }
+    ], "users": [
+        {
+        "id": 1,
+        "name": "Banco",
+        "credit_score": 580,
+        "income": 2800
+        },
+        {
+            "id": 3,
+            "name": "Carla Oliveira",
+            "credit_score": 810,
+            "income": 7000,
+            "loan_history": []
+        },
+        {
+            "id": 2,
+            "name": "Bruno Santos",
+            "credit_score": 620,
+            "income": 3500,
+            "loan_history": [
+            { "loan_id": 103, "amount": 1500, "status": "default" }
+            ]
+        }
+    ]
+  }
+  
